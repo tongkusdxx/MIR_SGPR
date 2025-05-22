@@ -5,7 +5,7 @@ Clone this repo.
 
 git clone https://github.com/tongkusdxx/MIR_SGPR.git
 
-#requirements:
+# requirements:
 
 pip install requirements.txt
 
@@ -22,7 +22,8 @@ You can download the pre-trained model
 https://drive.google.com/drive/folders/1WJQFExfjm6xI_r3PEaGIRlHumJGHDCvC
 
 
-## test data:image_for_test
+## test data:
+image_for_test
 
 # test :
 
